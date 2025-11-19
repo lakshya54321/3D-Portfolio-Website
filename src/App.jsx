@@ -4,7 +4,7 @@
 // import Contact from "./components/contact/Contact";
 
 import { lazy, Suspense } from "react";
-import LazyLoad from "react-lazyload";
+//import LazyLoad from "react-lazyload";
 
 const Hero = lazy(() => import("./components/hero/Hero"));
 const Services = lazy(() => import("./components/services/Services"));

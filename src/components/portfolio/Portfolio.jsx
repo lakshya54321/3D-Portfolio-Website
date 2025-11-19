@@ -30,7 +30,7 @@ const items = [
   {
     id: 4,
     img: "/p4.jpg",
-    title: "rone Technology Bootcamp - UPES x NIT Kurukshetra",
+    title: "Drone Technology Bootcamp - UPES x NIT Kurukshetra",
     desc: "Completed the Drone Technology Bootcamp 2024 by NIT Kurukshetra in collaboration with UPES. Gained hands-on insight into drone systems, sensor integration, AI-based enhancements, and real-world applications of drone technology.",
     link: "/",
   },
